@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
-<p><h3>Register Now:</h3> <a href="https://events.miami.edu/event/scientific-computing-r-nov-2021">https://events.miami.edu/event/scientific-computing-r-nov-2021</a></p>
+<p><h3>Register Now:</h3> <a href="https://events.miami.edu/event/scientific-computing-r-nov-2021" target="_blank">https://events.miami.edu/event/scientific-computing-r-nov-2021</a></p>
 
 <hr/>
 
