@@ -75,8 +75,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-Register Now: <a href="https://events.miami.edu/event/scientific-computing-r-nov-2021">https://events.miami.edu/event/scientific-computing-r-nov-2021</a>
-
 
 <h2 id="general">General Information</h2>
 
@@ -263,6 +261,10 @@ Edit the text to match who can attend the workshop. For instance:
     This workshop is open to ....
 </p>
 {% endcomment %}
+
+<hr/>
+
+<p><strong>Register Now:</strong> <a href="https://events.miami.edu/event/scientific-computing-r-nov-2021">https://events.miami.edu/event/scientific-computing-r-nov-2021</a></p>
 
 <hr/>
 
